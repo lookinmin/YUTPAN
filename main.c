@@ -307,6 +307,8 @@ void board(int x, int y)					//설명문 출력되는 창
 	printf("%c%c", a, b[5]);
 	printf("\n");
 	printf("\n");
+
+	printf("수정");
 }
 
 void mal_pan(int x, int y)		//현재 각팀의 말 상황을 나타내 주는 판
